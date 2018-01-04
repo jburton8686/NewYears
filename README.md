@@ -1,6 +1,6 @@
 # NewYears
 
-## Jesse is awsome
+## Jesse is awesome
 
 * Read 25 Books
 * Publish 40 Episodes
