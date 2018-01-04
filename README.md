@@ -1,5 +1,11 @@
 # NewYears
 
+## More Resolutions via Jesse
+
+* Run
+* Walk
+* Crawl
+
 ## Jesse is awesome
 
 * Read 25 Books
