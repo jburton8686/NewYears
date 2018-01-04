@@ -1,6 +1,12 @@
 # NewYears
 
+## Mitch
+
+* Back to Keto
+* Become Coding Jedi...Padawan
+
 ## Josh
+
 * Read Books
 * Stay off devices
 * Exercise
