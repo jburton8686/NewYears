@@ -1,6 +1,12 @@
 # NewYears
 
-## Mitch
+## Mike
+
+* Drink raw water
+* Take naps at lunch
+* Code everyday
+
+  ## Mitch
 
 * Back to Keto
 * Become Coding Jedi...Padawan
