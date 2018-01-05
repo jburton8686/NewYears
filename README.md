@@ -24,7 +24,7 @@
 * Practice Light Saber Coding skills with Darth Jesse
 * Drive faster
 
-## Josh
+## Josh.
 
 * Read Books
 * Stay off devices
