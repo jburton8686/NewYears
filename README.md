@@ -30,6 +30,7 @@
 * Stay off devices
 * Exercise
 * Buy more music
+* Research free music platforms like Napster
 * Watch movies
 * Apply for Dev Job with Rolling Stone Magazine
 
