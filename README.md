@@ -1,6 +1,7 @@
 # NewYears
 
 ## Roxanne
+
 * Get used to not being comfortable-haha
 * Halloween Disneyland Time
 * Beach Time
@@ -10,6 +11,8 @@
 * Drink raw water
 * Take naps at lunch
 * Code everyday
+
+  ## Where's Bob's list?
 
   ## Mitch
 
