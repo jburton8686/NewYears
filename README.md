@@ -10,11 +10,13 @@
 * Drink raw water
 * Take naps at lunch
 * Code everyday
+* Relax
 
-  ## Mitch
+## Mitch
 
 * Back to Keto
 * Become Coding Jedi...Padawan
+* Read books
 
 ## Josh
 
@@ -22,6 +24,7 @@
 * Stay off devices
 * Exercise
 * Buy more music
+* Watch movies
 
 ## Jesse is awesome
 
@@ -29,3 +32,4 @@
 * Publish 40 Episodes
 * Contribute to Elm
 * Speak at a Conference
+* Get a dog
