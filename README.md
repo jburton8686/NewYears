@@ -1,9 +1,11 @@
 # NewYears
 
 ## Roxanne
+
 * Get used to not being comfortable-haha
 * Halloween Disneyland Time
 * Beach Time
+* Buy extra shark repellent
 
 ## Mike
 
@@ -17,6 +19,7 @@
 * Back to Keto
 * Become Coding Jedi...Padawan
 * Read books
+* Practice Light Saber Coding skills with Darth Jesse
 
 ## Josh
 
@@ -25,6 +28,7 @@
 * Exercise
 * Buy more music
 * Watch movies
+* Apply for Dev Job with Rolling Stone Magazine
 
 ## Jesse is awesome
 
@@ -33,3 +37,4 @@
 * Contribute to Elm
 * Speak at a Conference
 * Get a dog
+* Run in 3 ultra marathons
