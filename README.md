@@ -7,6 +7,7 @@
 * Beach Time
 * Buy extra shark repellent
 * Wear bright colors
+* Don't put on That Red Dress
 
 ## Mike
 
@@ -15,6 +16,7 @@
 * Code everyday
 * Relax
 * Eat more
+* Find out what raw water actually is
 
 ## Mitch
 
@@ -43,3 +45,4 @@
 * Get a dog
 * Run in 3 ultra marathons
 * Grow a ZZ top beard
+* Click on less meows
