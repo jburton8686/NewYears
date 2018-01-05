@@ -6,6 +6,7 @@
 * Halloween Disneyland Time
 * Beach Time
 * Buy extra shark repellent
+* Wear bright colors
 
 ## Mike
 
@@ -13,6 +14,7 @@
 * Take naps at lunch
 * Code everyday
 * Relax
+* Eat more
 
 ## Mitch
 
@@ -20,8 +22,9 @@
 * Become Coding Jedi...Padawan
 * Read books
 * Practice Light Saber Coding skills with Darth Jesse
+* Drive faster
 
-## Josh
+## Josh.
 
 * Read Books
 * Stay off devices
@@ -38,3 +41,4 @@
 * Speak at a Conference
 * Get a dog
 * Run in 3 ultra marathons
+* Grow a ZZ top beard
