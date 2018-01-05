@@ -11,6 +11,7 @@
 * Stay off devices
 * Exercise
 * Buy more music
+* Research free music platforms like Napster
 
 ## Jesse is awesome
 
